@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Time",
+            "request": "launch",
+            "mainClass": "Time",
+            "projectName": "java code_a4b3231d"
+        },
+        {
+            "type": "java",
+            "name": "hi",
+            "request": "launch",
+            "mainClass": "hi",
+            "projectName": "java code_a4b3231d"
+        },
+        {
+            "type": "java",
+            "name": "Ball3",
+            "request": "launch",
+            "mainClass": "Ball3",
+            "projectName": "java code_a4b3231d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SimpleApplication",
+            "request": "launch",
+            "mainClass": "SimpleApplication",
+            "projectName": "java code_a4b3231d"
+        },
+        {
+            "type": "java",
+            "name": "TrianglePattern",
+            "request": "launch",
+            "mainClass": "TrianglePattern",
+            "projectName": "java code_a4b3231d"
+        },
+        {
+            "type": "java",
+            "name": "ch3Sample1",
+            "request": "launch",
+            "mainClass": "ch3Sample1",
+            "projectName": "java code_a4b3231d"
+        }
+    ]
+}
